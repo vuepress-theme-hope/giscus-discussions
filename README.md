@@ -10,4 +10,4 @@ Repo for giscus to store dicussion
 
 ### The author does not expect him to be notified by your site reactions, if you get warned, use your own repo immediately otherwise we will BLOCK you from this repo.
 
-### To use your own repo, see https://plugin-comment2.vuejs.press/guide/giscus.html#preparation
+### To use your own repo, see https://ecosystem.vuejs.press/plugins/comment/giscus.html#preparation
